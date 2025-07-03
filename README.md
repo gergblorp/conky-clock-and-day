@@ -1,3 +1,5 @@
+## Conky Clock And Day
+
 ## Installation:
 ```cd /etc/conky/```
 and replace conky.conf
