@@ -1,5 +1,5 @@
 # Conky Clock And Day
-
+Shows the current day and time (Pretty obvious)
 ## Installation:
 
 ```cd /etc/conky/```
